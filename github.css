@@ -1,0 +1,11 @@
+.TimelineItem-badge.color-bg-success-emphasis svg {
+    display: none !important;
+}
+
+.TimelineItem-badge.color-bg-success-emphasis {
+    background-image: url('https://github.com/knobiknows/all-the-bufo/blob/main/all-the-bufo/bufo-nod.gif?raw=true') !important;
+    background-repeat: no-repeat !important;
+    background-size: 100% !important;
+    background-color: transparent !important;
+    border: none !important;
+}
